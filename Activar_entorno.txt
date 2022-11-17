@@ -1,0 +1,11 @@
+ Copiar Y Pegar en la terminal
+ 
+ 
+ 
+ & c:/Users/LUMI/Desktop/Web/venv/Scripts/Activate.ps1
+
+
+
+
+
+ 
